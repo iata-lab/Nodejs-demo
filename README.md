@@ -1,16 +1,9 @@
 # Nodejs-demo
 
 
-Introduction
-Node.js® is a runtime environment for JavaScript built with V8, Chrome's JavaScript engine.
-
-
-
-
 What are the main goals of this project?
 
-⦁ To understand how Node js works.
-⦁ Understand how to interact with Node js.
+
 ⦁ To learn how to handle Node js
 ⦁ Understand what is NPM
 ⦁ Learn how to handle NPM
