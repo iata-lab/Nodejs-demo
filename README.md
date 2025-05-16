@@ -8,6 +8,7 @@ Node.js® is a runtime environment for JavaScript built with V8, Chrome's JavaSc
 
 
 What are the main goals of this project?
+
 ⦁ To understand how Node js works.
 ⦁ Understand how to interact with Node js.
 ⦁ To learn how to handle Node js
@@ -18,6 +19,7 @@ What are the main goals of this project?
 
 
   Exercise 1
+  
 Create a folder with the name ej1
 Initialize a Node.js project using NPM inside the ej1 folder.
 The name of the project has to be Exercise-1. 
@@ -29,6 +31,7 @@ My first script in The Bridge!!!
 
 
   Exercise 2
+  
 Create a folder with the name ej2
 Initialize a Node.js project using NPM inside the ej2 folder.
 The name of the project has to be Exercise-2
@@ -44,6 +47,7 @@ Something's not right!!! (using the error method)
 
 
 Exercise 3
+
 Create a folder with the name ej3
 Initialize a Node.js project using NPM inside the ej3 folder.
 The name of the project has to be Exercise-3
@@ -59,6 +63,7 @@ The number is not even (use the error method)
 
 
 Extra exercises  Routing with Node.js
+
 
 
 Create HTML code to serve a classic web page (Home| Who are we? | Where are we? | What do we do? | Contact... etc...)
